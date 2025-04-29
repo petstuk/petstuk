@@ -1,14 +1,23 @@
-👋 Hi, I'm Peter Stollery​
-I'm a cybersecurity enthusiast and Python developer, passionate about building tools that enhance security visibility and automate threat detection.​
+# 👋 Hi, I'm Peter Stollery
 
-🔧 Projects
-Here are some of my featured projects:​
+I'm a cybersecurity enthusiast and Python developer, passionate about building tools that enhance security visibility and automate threat detection.
 
-SigmaEye: A Windows process monitoring toolkit that integrates ETW and user-level monitoring with Sigma rules. It detects suspicious process behavior, LOLBins usage, and potential threats in real-time.​
+---
 
-CVE-Search-Tool: A Python-based tool that fetches and displays CVEs for assets using the NVD API. It shows CVSS scores, severity ratings, and vector strings, allowing for efficient vulnerability management.​
+## 🔧 Projects
 
-GitHubRepoMonitor: A Python script that monitors GitHub repositories and sends email notifications for new commits. It uses the GitHub API to track changes across multiple repos, with configurable check intervals.
+Here are some of my featured projects:
+
+- **[SigmaEye](https://github.com/petstuk/SigmaEye)**  
+  A Windows process monitoring toolkit that integrates ETW and user-level monitoring with Sigma rules. It detects suspicious process behavior, LOLBins usage, and potential threats in real-time.
+
+- **[CVE-Search-Tool](https://github.com/petstuk/CVE-Search-Tool)**  
+  A Python-based tool that fetches and displays CVEs for assets using the NVD API. It shows CVSS scores, severity ratings, and vector strings, allowing for efficient vulnerability management.
+
+- **[GitHubRepoMonitor](https://github.com/petstuk/GitHubRepoMonitor)**  
+  A Python script that monitors GitHub repositories and sends email notifications for new commits. It uses the GitHub API to track changes across multiple repos, with configurable check intervals.
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peter-stollery) 
