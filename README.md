@@ -15,7 +15,7 @@ Here are some of my featured projects:
   A Python-based tool that fetches and displays CVEs for assets using the NVD API. It shows CVSS scores, severity ratings, and vector strings, allowing for efficient vulnerability management.
 
 - **[OSINT Extension](https://github.com/petstuk/OSINTExtension)**  
-  A collection of browser extensions that allow security professionals to quickly search for indicators of compromise (IOCs) across popular OSINT (Open Source Intelligence) tools..
+  A collection of browser extensions that allow security professionals to quickly search for indicators of compromise (IOCs) across popular OSINT (Open Source Intelligence) tools.
 
 ---
 
