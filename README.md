@@ -14,8 +14,8 @@ Here are some of my featured projects:
 - **[CVE-Search-Tool](https://github.com/petstuk/CVE-Search-Tool)**  
   A Python-based tool that fetches and displays CVEs for assets using the NVD API. It shows CVSS scores, severity ratings, and vector strings, allowing for efficient vulnerability management.
 
-- **[GitHubRepoMonitor](https://github.com/petstuk/GitHubRepoMonitor)**  
-  A Python script that monitors GitHub repositories and sends email notifications for new commits. It uses the GitHub API to track changes across multiple repos, with configurable check intervals.
+- **[OSINT Extension](https://github.com/petstuk/OSINTExtension)**  
+  A collection of browser extensions that allow security professionals to quickly search for indicators of compromise (IOCs) across popular OSINT (Open Source Intelligence) tools..
 
 ---
 
