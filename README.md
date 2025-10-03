@@ -17,6 +17,9 @@ Here are some of my featured projects:
 - **[OSINT Extension](https://github.com/petstuk/OSINTExtension)**  
   A collection of browser extensions that allow security professionals to quickly search for indicators of compromise (IOCs) across popular OSINT (Open Source Intelligence) tools.
 
+- **[KQL Assistant](https://github.com/petstuk/kql-assistant)**
+  A Visual Studio Code extension that provides Kusto Query Language (KQL) syntax checking, highlighting, and language support.
+
 ---
 
 ## 🌐 Socials:
