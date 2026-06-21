@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Peter Stollery
+# Peter Stollery
 
 I'm a cybersecurity professional focused on **detection engineering**, **threat intelligence**, and **security tooling**. I build tools that enhance security visibility, automate threat detection, and help analysts work faster and smarter.
 
-- 🔭 Currently working on detection rules across Sigma, KQL, and YARA
-- 🌱 Always exploring new ways to apply Python to security automation
+- 🔭 Currently building [THMP](https://github.com/petstuk/thmp) — an open-source Threat Hypothesis Management Platform
+- 🌱 Exploring applied ML for cybersecurity: anomaly detection, behavioural analysis, and deep learning for threat hunting
 - 💬 Ask me about detection engineering, OSINT, or KQL
 - 🌐 [peterstollery.co.uk](http://peterstollery.co.uk)
 
@@ -16,8 +16,23 @@ I'm a cybersecurity professional focused on **detection engineering**, **threat 
 ![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![YARA](https://img.shields.io/badge/YARA-FF6B35?style=for-the-badge&logo=virustotal&logoColor=white)
 ![Sigma](https://img.shields.io/badge/Sigma-5C2D91?style=for-the-badge&logo=sigma&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## 🚀 Featured Project
+
+### [THMP — Threat Hypothesis Management Platform](https://github.com/petstuk/thmp)
+
+An open-source, self-hostable web application for SOC analysts and threat intelligence teams to manage the full lifecycle of threat hypotheses — from intel ingestion through collaborative hunting, evidence collection, MITRE ATT&CK mapping, and reporting.
+
+**Stack:** Python 3.12 · FastAPI · PostgreSQL · Redis · OpenSearch · MinIO · Docker Compose · TypeScript SPA  
+**Highlights:** Microservices architecture · Connector SDK (`thmp-cdk`) · OIDC auth · ATT&CK Navigator integration · PDF/STIX reporting · pluggable SIEM/TI integrations
 
 ---
 
@@ -49,6 +64,16 @@ I'm a cybersecurity professional focused on **detection engineering**, **threat 
 
 - **[GitHub Repo Monitor](https://github.com/petstuk/GitHubRepoMonitor)**  
   A Python script that monitors GitHub repositories and sends email notifications for new commits, with configurable intervals and multi-repo support.
+
+---
+
+## 📚 Learning & Research
+
+### [Applied ML for Cybersecurity](https://github.com/petstuk/applied_ml_for_cyber)
+
+A hands-on, 26-part blog series covering the full applied ML workflow for security practitioners — from data ingestion and feature engineering through to deep learning and capstone projects.
+
+**Topics covered:** Security data pipelines · Bayesian threat scoring · Unsupervised learning (K-Means, DBSCAN, PCA) · Supervised learning & neural networks · CNNs & autoencoders for anomaly detection · Genetic algorithms · End-to-end capstone project
 
 ---
 
