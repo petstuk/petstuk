@@ -71,9 +71,7 @@ An open-source, self-hostable web application for SOC analysts and threat intell
 
 ### [Applied ML for Cybersecurity](https://github.com/petstuk/applied_ml_for_cyber)
 
-A hands-on, 5-part blog series covering the full applied ML workflow for security practitioners — from data ingestion and feature engineering through to deep learning and capstone projects (2/5 parts complete on my [website](https://peterstollery.co.uk)
-
-**Topics covered:** Security data pipelines · Bayesian threat scoring · Unsupervised learning (K-Means, DBSCAN, PCA) · Supervised learning & neural networks · CNNs & autoencoders for anomaly detection · Genetic algorithms · End-to-end capstone project
+A hands-on, 5-part blog series covering the full applied ML workflow for security practitioners — from data ingestion and feature engineering through to deep learning and capstone projects (2/5 parts complete on my [website](https://peterstollery.co.uk).
 
 ---
 
